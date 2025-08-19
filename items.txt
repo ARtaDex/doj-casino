@@ -1,0 +1,36 @@
+	['casino_gumball']  = {
+		['name'] = 'casino_gumball',
+		['label'] = 'Gumball',
+		['weight'] = 100,
+		['type'] = 'item',
+		['image'] = 'casino_gumball.png',
+		['unique'] = false, 	
+		['useable'] = true,
+		['shouldClose'] = true,
+		['combinable'] = nil,  
+		['description'] = 'A shiny gumball'
+	},
+	['casino_member']  = {
+		['name'] = 'casino_member',
+		['label'] = 'Casino Member', 
+		['weight'] = 0, 	
+		['type'] = 'item', 	
+		['image'] = 'casino_member.png', 	
+		['unique'] = false, 	
+		['useable'] = false, 
+		['shouldClose'] = false, 
+		['combinable'] = nil,  
+		['description'] = 'Casino Membership'
+	},
+	['casino_vip']  = {
+		['name'] = 'casino_vip',
+		['label'] = 'Casino V.I.P', 
+		['weight'] = 0, 	
+		['type'] = 'item', 	
+		['image'] = 'casino_vip.png', 	
+		['unique'] = false, 	
+		['useable'] = false, 
+		['shouldClose'] = false, 
+		['combinable'] = nil,  
+		['description'] = 'V.I.P Membership'
+	},
